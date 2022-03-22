@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-20!v67d*h74+tw3a+36r06etwvf+8@tziaf_efo_=ncdj0*r3e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["gagarian.com", "www.gagarian.com"]
+ALLOWED_HOSTS = ["api.gagarian.com"]
 
 
 # Application definition
